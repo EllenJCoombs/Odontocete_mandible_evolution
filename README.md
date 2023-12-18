@@ -2,45 +2,41 @@
 # Drivers of morphological evolution in the toothed whale jaw
 
 
-![Resampledcurves](Resampledcurves.JPG)
-<sup>Image: Resampled curves on cetacean skulls </sup>
+![landmarks_and_curves](landmarks_and_curves.JPG)
+<sup>Image: Landmark, curve, and surface patch point protocol </sup>
 
 
 __Authors:__
 
 [Ellen J. Coombs](mailto:ellen.coombs.14@ucl.ac.uk), 
-[Ryan. N Felice](https://github.com/rnfelice), 
-[Julien Clavel](https://github.com/JClavel), 
-[Travis Park](https://github.com/travispark), 
-Rebecca Bennion, Morgan Churchill, 
-Jonathan Geisler, 
-Brian Beatty, 
-[Anjali Goswami](https://github.com/anjgoswami)
-
+Andrew Knapp, 
+Travis Park,
+Rebecca F. Bennion,
+Matthew R. McCurry,
+Agnese Lanzetti,
+Robert R. Boessenecker, 
+Michael R. McGowen 
 
 __To cite the paper__: 
 
->Coombs EJ, Felice RN, Clavel J, Park T, Bennion R, Churchill M, Geisler J, Beatty B, Goswami A. The tempo of cetacean cranial evolution. Current Biology. 2022. 
-Details available at: https://github.com/EllenJCoombs/Cetacean_cranial_evolution
+>Coombs EJ, Knapp A, Park T, Bennion RF, McCurry M, Lanzetti A, Boessenecker RW, McGowen MR. Drivers of morphological evolution in the toothed whale jaw. Current Biology. 2023. 
+Details available at: https://github.com/EllenJCoombs/Odontocete_mandible_evolution
 
 If using any of this code or data please cite the paper above and this repo
 
 __To cite this repo__: 
 
-Github: https://github.com/EllenJCoombs/Cetacean_cranial_evolutions plus the Zenodo DOI: 
+Github: https://github.com/EllenJCoombs/Odontocete_mandible_evolution plus the Zenodo DOI: 
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6506812.svg)](https://doi.org/10.5281/zenodo.6506812)
 
 
 ## Data :bar_chart: :chart_with_downwards_trend: 
 
 The data are provided in the `data` folder
-1. `absent.csv`- bones that are variably present in some species 
-2. `new curves_archs_odonts.csv` - LM and curve configuration used for archaeocetes and odontocetes 
-3. `new curves_mysts.csv` - LM and curve configuration used for mysticetes 
-4. `Table S1` - All ecological data 
-5. `Table S3` - LM and curve descriptions 
-6. `Table S4` - Centroid size
+1. `Csize.csv`- centroid size for all taxa
+2. `Regions_mandibles_patches.csv` - Landmarks, curves, and patches
+3. `Table S2 - All species data and ecological data
+
 
 
 ## Analysis :chart_with_upwards_trend:
