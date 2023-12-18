@@ -1,6 +1,5 @@
 
-#              Drivers of morphological evolution
-#                  in the toothed whale jaw
+#              <center>Drivers of morphological evolution in the toothed whale jaw</center>
 
 
 ![landmarkscurves](landmarkscurves.jpg)
