@@ -3,7 +3,12 @@
 
 
 ![landmarkscurves](landmarkscurves.jpg)
-<sup>Image: Landmark, curve, and surface patch point protocol. A. Landmarks and curves. B. Landmarks, curves, and patch points - lateral. C. Landmarks, curves, and patch points - dorsal. D. Landmarks, curves, and patch points with no mesh. Mesh shown is _Mesoplodon ginkgodens_ USNM 298237</sup>
+<sup>Image: Landmark, curve, and surface patch point protocol. 
+A. Landmarks and curves. 
+B. Landmarks, curves, and patch points - lateral. 
+C. Landmarks, curves, and patch points - dorsal. 
+D. Landmarks, curves, and patch points with no mesh. 
+Mesh shown is _Mesoplodon ginkgodens_ USNM 298237</sup>
 
 
 __Authors:__
