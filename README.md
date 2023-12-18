@@ -2,7 +2,7 @@
 # Drivers of morphological evolution in the toothed whale jaw
 
 
-![landmarks_and_curves](landmarks_and_curves.JPG)
+![landmarkscurves](landmarkscurves.JPG)
 <sup>Image: Landmark, curve, and surface patch point protocol </sup>
 
 
