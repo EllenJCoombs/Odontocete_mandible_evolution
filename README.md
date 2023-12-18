@@ -3,7 +3,7 @@
 
 
 ![landmarkscurves](landmarkscurves.jpg)
-<sup>Image: Landmark, curve, and surface patch point protocol </sup>
+<sup>Image: Landmark, curve, and surface patch point protocol. A. Landmarks and curves. B. Landmarks, curves, and patch points - lateral. C. Landmarks, curves, and patch points - dorsal. D. Landmarks, curves, and patch points with no mesh. Mesh shown is _Mesoplodon ginkgodens_ USNM 298237</sup>
 
 
 __Authors:__
@@ -71,15 +71,15 @@ As above
 
 
 ## License :page_with_curl:
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/EllenJCoombs/Cetacean_cranial_evolution/blob/main/LICENSE) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/EllenJCoombs/Odontocete_mandible_evolution/blob/main/LICENSE) file for details
 
 ## Session Info :clipboard:
 For reproducibility purposes, here is the output of `devtools::session_info()` used to perform the analyses in the publication. 
 
 ```{r}
-R version 3.5.0 (2018-04-23)
+R version 4.3.0 (2023-04-21 ucrt)
 Platform: x86_64-w64-mingw32/x64 (64-bit)
-Running under: Windows 10 x64 (build 19042)
+Running under: Windows 11 x64 (build 22621)
 
 Matrix products: default
 
