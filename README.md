@@ -8,7 +8,7 @@
 
 __Authors:__
 
-[Ellen J. Coombs](mailto:ellen.coombs.14@ucl.ac.uk), 
+[Ellen J. Coombs](mailto:coombse@si.edu), 
 Andrew Knapp, 
 Travis Park,
 Rebecca F. Bennion,
