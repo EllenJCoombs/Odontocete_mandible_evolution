@@ -40,10 +40,10 @@ Github: https://github.com/EllenJCoombs/Odontocete_mandible_evolution
 The data are provided in the `data` folder
 1. `Csize.csv`- centroid size for all taxa
 2. `Regions_mandibles_patches.csv` - Landmarks, curves, and patches
-3. `Table S1' - MANOVA results for ecological influences on mandible morphology in cetaceans
+3. `Table S1` - MANOVA results for ecological influences on mandible morphology in cetaceans
 4. `Table S2` - All species data and ecological data
 5. `Table S3` - Description of landmarks placed on each specimen
-6. `Table S4' - Description of landmarks and curves placed on each specimen
+6. `Table S4` - Description of landmarks and curves placed on each specimen
 
 
 
