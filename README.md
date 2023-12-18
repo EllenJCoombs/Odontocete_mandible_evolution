@@ -1,5 +1,5 @@
 
-#              <center>Drivers of morphological evolution in the toothed whale jaw</center>
+#Drivers of morphological evolution<br> in the toothed whale jaw
 
 
 ![landmarkscurves](landmarkscurves.jpg)
@@ -15,10 +15,10 @@ __Authors:__
 
 [Ellen J. Coombs](mailto:coombse@si.edu), 
 Andrew Knapp, 
-Travis Park,
+[Travis Park](https://github.com/travispark),
 Rebecca F. Bennion,
 Matthew R. McCurry,
-Agnese Lanzetti,
+[Agnese Lanzetti](https://github.com/AgneseLan),
 Robert R. Boessenecker, 
 Michael R. McGowen 
 
