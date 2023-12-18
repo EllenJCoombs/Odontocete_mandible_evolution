@@ -53,27 +53,19 @@ As above
  :file_folder:
 * **code**
 
-`BTprocessR.R`
+`Asymmetry_LHS_RHS.R`
 
-`BayesTraits.R`
+`BT_MCMC.R`
 
-`BayesTraits_distributions.R`
-
-`BayesTraits_rates_phylo.R`
+`BT_to_tree.R`
 
 `Binary_ASCII_ply.R`
 
-`Disparity.R`
+`Eco_morphospace.R`
 
 `Import_resample_slide_LMs.R`
 
-`Mirroring.R`
-
-`Rates_through_time.R`
-
-`Regions.R`
-
-`ResamplingV3.R`
+`Rates_eco_mnVMORPH.R`
 
 `Slider3d_2.R`
 
