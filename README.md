@@ -26,7 +26,7 @@ If using any of this code or data please cite the paper above and this repo
 
 __To cite this repo__: 
 
-Github: https://github.com/EllenJCoombs/Odontocete_mandible_evolution plus the Zenodo DOI: 
+Github: https://github.com/EllenJCoombs/Odontocete_mandible_evolution
 
 
 
